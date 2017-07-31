@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpliSqlite</string>
+
+    <string name="hint_name"> Contact Name</string>
+    <string name="error_name">Enter Contact Name</string>
+    <string name="hint_phono">Phone Number</string>
+    <string name="error_phono">Enter Phone Number</string>
+    <string name="title_activity_view">ViewActivity</string>
+</resources>
